@@ -57,7 +57,7 @@ export const spec = {
 
       return {
         method: 'POST',
-        url: 'https://prebid.owneriq.net:8443/bidder/pb/bid',
+        url: 'http://bb1.dev.rtb.owneriq.net:8080/bidder/pb/bid',
         data: payloadString,
       };
     });
