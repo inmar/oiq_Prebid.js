@@ -13,7 +13,7 @@ aliases:
         # CircleCI maintains a library of pre-built images
         # documented at https://circleci.com/docs/2.0/circleci-images/
         # - image: circleci/mongo:3.4.4
-      working_directory: ~/Prebid.js-oiq
+      working_directory: ~/Prebid.js
 
   - &restore_dep_cache
       keys:
