@@ -34,7 +34,7 @@
     "@wdio/mocha-framework": "^6.1.6",
     "@wdio/spec-reporter": "^6.1.5",
     "@wdio/sync": "^6.1.5",
-    "ajv": "5.5.2",
+    "ajv": "6.12.3",
     "babel-loader": "^8.0.5",
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
